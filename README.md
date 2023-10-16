@@ -133,6 +133,19 @@ Community Editions of DevOps and DevSecOps tools.
 
 
 
+- **[SonarQube](https://www.sonarsource.com/products/sonarqube/)** - Code quality and security analysis tool.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - Community supported plugins
+
+  </details>
+
+
+
+
 
 
 
