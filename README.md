@@ -17,6 +17,7 @@ This list requires tools that offer long-term Community Editions (CE) derived fr
 - [Case Management](#case-management)
 - [DevSecOps](#devsecops)
 - [Documentation](#documentation)
+- [Firewall](#firewall)
 - [Notification](#notification)
 - [Pentesting](#pentesting)
 - [SIEM](#siem)
@@ -27,6 +28,7 @@ This list requires tools that offer long-term Community Editions (CE) derived fr
 - [Threat Hunting](#threat-hunting)
 - [Threat Modeling](#threat-modeling)
 - [Vulnerability Management](#vulnerability-management)
+- [XDR](#xdr)
 
 
 
@@ -154,6 +156,51 @@ Community Editions of DevOps and DevSecOps tools.
 CE of Enterprise Documentation tools.
 
 
+- **[Atlassian Confluence Free](https://www.atlassian.com/software/confluence/)** - Popular documentation and collaboration tool.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - [Confluence Free vs Paid](https://www.atlassian.com/software/confluence/pricing)
+  - 10 user limit.
+  - One site
+  - No audit logs or advances security features
+  - 2 GB file storage
+  - Community support
+
+  </details>
+
+
+
+
+
+
+
+## Firewall
+
+Free 
+
+
+- **[Burp Suite CE](https://portswigger.net/burp/communitydownload)** - Popular web application security testing tool.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - [Endian CE vs EE](https://www.endian.com/community/comparison/)
+  - No Vendor Support
+  - No Application control
+  - No Advanced content feeds
+  - Simple anti-spam engine
+  - No VPN Remote user auth
+  - No Event reporting
+
+  </details>
+
+
+
+
 
 
 
@@ -200,6 +247,22 @@ Notification tools for SOCs and IR teams.
 Popular Enterprise Pentesting tools.
 
 
+- **[AzureHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481394564251-AzureHound-Community-Edition)** - Go binary that collects data from Entra ID (formerly known as AzureAD) and AzureRM via the Microsoft Graph and Azure REST APIs. 
+
+
+- **[BloodHound CE](https://www.hackerone.com/company/open-source-community)** - The most popular bug bounty platform.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - [BloodHound CE vs EE](https://bloodhoundenterprise.io/blog/2021/05/11/bloodhound-enterprise-vs-bloodhound-open-source/)
+
+  </details>
+
+
+
+
 - **[Burp Suite CE](https://portswigger.net/burp/communitydownload)** - Popular web application security testing tool.
 
 
@@ -225,6 +288,9 @@ Popular Enterprise Pentesting tools.
   </details>
 
 
+
+
+- **[SharpHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481151861019-SharpHound-Community-Edition)** - Official data collector for BloodHound CE. It is written in C# and uses native Windows API functions and LDAP namespace functions to collect data from domain controllers and domain-joined Windows systems.
 
 
 
@@ -439,7 +505,20 @@ Enterprise Security Training platforms
 
 ## Threat Feeds
 
-Threat feeds are out of scope for this list as there are many great collections already available.
+Threat feeds are generally out of scope for this list but a few CE versions of common Enterprise Threat Feeds have been included.
+
+
+- **[Anomali STAXX](https://www.anomali.com/resources/staxx)** - Free STIX / TAXXII feed client.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - Unlimited feeds
+
+  </details>
+
+
 
 
 
@@ -523,6 +602,35 @@ Enterprise Vulnerability Management tools.
   - One virtual scanner appliance
   - Unlimited vulnerability scanning for up to 16 internal assets and 3 external assets
   - Unlimited vulnerability scanning for one application URL
+
+  </details>
+
+
+
+
+
+
+
+## XDR
+
+Free XDR solutions.
+
+
+- **[Wazuh](https://www.veracode.com/products/security-labs-community-edition/)** - Lightweight, always free, preview of Enterprise Edition for developers.
+
+
+  <details>
+  <summary>Limits</summary>
+
+  - Free and open source.
+  - Vendor support is paid.
+
+  </details>
+
+  <details>
+  <summary>Resources</summary>
+
+  - GitHub: https://github.com/wazuh
 
   </details>
 
