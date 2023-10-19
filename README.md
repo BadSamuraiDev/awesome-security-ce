@@ -5,7 +5,7 @@
 Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to this list.
 
 ### Requirements
-- :heavy_check_mark: :mortar_board: Functionally useful to a hobbist, researcher or student.
+- :heavy_check_mark: :mortar_board: Functionally useful to a hobbyist, researcher or student.
 - :heavy_check_mark: :low_brightness: Feature limitations allowed if it remains functionally usable.
 - :heavy_check_mark: :hourglass_flowing_sand: No time-based limitations. Such as 14 day trial.
 - :heavy_check_mark: :godmode: Usage is free.
@@ -41,11 +41,12 @@ Enterprise Business Email Compromise (BEC) tools.
 
   <details>
   <summary>Limits</summary>
-  - 10,000 Emails
-  - 1 Domain
-  - 14 Days Data History
-  - 1 Invited User
-
+  <ul>
+    <li>10,000 Emails</li>
+    <li>1 Domain</li>
+    <li>14 Days Data History</li>
+    <li>1 Invited User</li>
+  </ul>
   </details>
 
 
@@ -56,12 +57,13 @@ CE of Enterprise Case Management tools for SOCs and IR.
 
   <details>
   <summary>Limits</summary>
-  - User limit: The free plan is limited to 10 users.
-  - Storage limit: The free plan has a 2GB storage limit.
-  - Email notifications: The free plan can send a maximum of 100 emails per day.
-  - Audit logs: The free plan does not have access to audit logs.
-  - Support: The free plan only offers community support.
-
+  <ul>
+    <li>User limit: The free plan is limited to 10 users.</li>
+    <li>Storage limit: The free plan has a 2GB storage limit.</li>
+    <li>Email notifications: The free plan can send a maximum of 100 emails per day.</li>
+    <li>Audit logs: The free plan does not have access to audit logs.</li>
+    <li>Support: The free plan only offers community support.</li>
+  </ul>
   </details>
 
 
@@ -72,11 +74,12 @@ Community Editions of DevOps and DevSecOps tools.
 
   <details>
   <summary>Limits</summary>
-  - 5GB storage
-  - 10GB transfer per month
-  - 400 compute minutes per month
-  - 5 users per top-level group
-
+  <ul>
+    <li>5GB storage</li>
+    <li>10GB transfer per month</li>
+    <li>400 compute minutes per month</li>
+    <li>5 users per top-level group</li>
+  </ul>
   </details>
 
 
@@ -84,12 +87,13 @@ Community Editions of DevOps and DevSecOps tools.
 
   <details>
   <summary>Limits</summary>
-  - 1 application / project
-  - 3 users
-  - 1 free security report
-  - Limited integrations
-  - Community support via Slack
-
+  <ul>
+    <li>1 application / project</li>
+    <li>3 users</li>
+    <li>1 free security report</li>
+    <li>Limited integrations</li>
+    <li>Community support via Slack</li>
+  </ul>
   </details>
 
 
@@ -97,11 +101,12 @@ Community Editions of DevOps and DevSecOps tools.
 
   <details>
   <summary>Limits</summary>
-  - Open Source: 200 tests/mo
-  - Code: 100 tests/mo
-  - IaC: 300 tests/mo
-  - Container: 100 tests/mo
-
+  <ul>
+    <li>Open Source: 200 tests/mo</li>
+    <li>Code: 100 tests/mo</li>
+    <li>IaC: 300 tests/mo</li>
+    <li>Container: 100 tests/mo</li>
+  </ul>
   </details>
 
 
@@ -109,8 +114,9 @@ Community Editions of DevOps and DevSecOps tools.
 
   <details>
   <summary>Limits</summary>
-  - Community supported plugins
-
+  <ul>
+    <li>Community supported plugins</li>
+  </ul>
   </details>
 
 
@@ -121,13 +127,14 @@ CE of Enterprise Documentation tools.
 
   <details>
   <summary>Limits</summary>
-  - [Confluence Free vs Paid](https://www.atlassian.com/software/confluence/pricing)
-  - 10 user limit.
-  - One site
-  - No audit logs or advances security features
-  - 2 GB file storage
-  - Community support
-
+  <ul>
+    <li>Free vs Paid: https://www.atlassian.com/software/confluence/pricing</li>
+    <li>10 user limit.</li>
+    <li>One site</li>
+    <li>No audit logs or advances security features</li>
+    <li>2 GB file storage</li>
+    <li>Community support</li>
+  </ul>
   </details>
 
 
@@ -138,14 +145,15 @@ Free
 
   <details>
   <summary>Limits</summary>
-  - [Endian CE vs EE](https://www.endian.com/community/comparison/)
-  - No Vendor Support
-  - No Application control
-  - No Advanced content feeds
-  - Simple anti-spam engine
-  - No VPN Remote user auth
-  - No Event reporting
-
+  <ul>
+    <li>Endian CE vs EE: https://www.endian.com/community/comparison/</li>
+    <li>No Vendor Support</li>
+    <li>No Application control</li>
+    <li>No Advanced content feeds</li>
+    <li>Simple anti-spam engine</li>
+    <li>No VPN Remote user auth</li>
+    <li>No Event reporting</li>
+  </ul>
   </details>
 
 
@@ -156,9 +164,10 @@ Notification tools for SOCs and IR teams.
 
   <details>
   <summary>Limits</summary>
-  - Users: 5
-  - Escalation Schema: 1
-
+  <ul>
+    <li>Users: 5</li>
+    <li>Escalation Schema: 1</li>
+  </ul>
   </details>
 
 
@@ -166,11 +175,12 @@ Notification tools for SOCs and IR teams.
 
   <details>
   <summary>Limits</summary>
-  - 90 day history
-  - 10 integrations
-  - 1:1 huddles
-  - 1:1 messages with individuals outside of organization
-
+  <ul>
+    <li>90 day history</li>
+    <li>10 integrations</li>
+    <li>1:1 huddles</li>
+    <li>1:1 messages with individuals outside of organization</li>
+  </ul>
   </details>
 
 
@@ -183,8 +193,9 @@ Popular Enterprise Pentesting tools.
 
   <details>
   <summary>Limits</summary>
-  - [BloodHound CE vs EE](https://bloodhoundenterprise.io/blog/2021/05/11/bloodhound-enterprise-vs-bloodhound-open-source/)
-
+  <ul>
+    <li>[BloodHound CE vs EE](https://bloodhoundenterprise.io/blog/2021/05/11/bloodhound-enterprise-vs-bloodhound-open-source/)</li>
+  </ul>
   </details>
 
 
@@ -192,9 +203,10 @@ Popular Enterprise Pentesting tools.
 
   <details>
   <summary>Limits</summary>
-  - HTTP(s) / WebSockets proxy and history
-  - Essential tools - Repeater, Decoder, Sequencer, and Comparer.
-
+  <ul>
+    <li>HTTP(s) / WebSockets proxy and history</li>
+    <li>Essential tools - Repeater, Decoder, Sequencer, and Comparer.</li>
+  </ul>
   </details>
 
 
@@ -202,8 +214,9 @@ Popular Enterprise Pentesting tools.
 
   <details>
   <summary>Limits</summary>
-  - Free to eligible open source projects
-
+  <ul>
+    <li>Free to eligible open source projects</li>
+  </ul>
   </details>
 
 
@@ -216,11 +229,12 @@ Community Editions of Security Information and Event Management (SIEM) tools.
 
   <details>
   <summary>Limits</summary>
-  - Daily ingestion up to 1 TB/day.
-  - Maximum 10 Worker Processes, and 100 Edge Nodes.
-  - Maximum 1 Worker Group and 1 Fleet.
-  - Requires sending of anonymized telemetry metadata to Cribl.
-
+  <ul>
+    <li>Daily ingestion up to 1 TB/day.</li>
+    <li>Maximum 10 Worker Processes, and 100 Edge Nodes.</li>
+    <li>Maximum 1 Worker Group and 1 Fleet.</li>
+    <li>Requires sending of anonymized telemetry metadata to Cribl.</li>
+  </ul>
   </details>
 
 
@@ -228,10 +242,11 @@ Community Editions of Security Information and Event Management (SIEM) tools.
 
   <details>
   <summary>Limits</summary>
-  - You may not provide the products to others as a managed service
-  - You may not circumvent the license key functionality or remove/obscure features protected by license keys
-  - You may not remove or obscure any licensing, copyright, or other notices
-
+  <ul>
+    <li>You may not provide the products to others as a managed service</li>
+    <li>You may not circumvent the license key functionality or remove/obscure features protected by license keys</li>
+    <li>You may not remove or obscure any licensing, copyright, or other notices</li>
+  </ul>
   </details>
 
 
@@ -239,9 +254,10 @@ Community Editions of Security Information and Event Management (SIEM) tools.
 
   <details>
   <summary>Limits</summary>
-  - 50 events per second 
-  - 5000 network flows per minute 
-
+  <ul>
+    <li>50 events per second</li>
+    <li>5000 network flows per minute</li>
+  </ul>
   </details>
 
 
@@ -249,12 +265,13 @@ Community Editions of Security Information and Event Management (SIEM) tools.
 
   <details>
   <summary>Limits</summary>
-  - Basic alerting with Email, Slack and Webhooks
-  - Basic, PKI and proxy auth
-  - Basic access control monitoring
-  - Full encryption support
-  - Full compatability
-
+  <ul>
+    <li>Basic alerting with Email, Slack and Webhooks</li>
+    <li>Basic, PKI and proxy auth</li>
+    <li>Basic access control monitoring</li>
+    <li>Full encryption support</li>
+    <li>Full compatibility</li>
+  </ul>
   </details>
 
 
@@ -262,9 +279,10 @@ Community Editions of Security Information and Event Management (SIEM) tools.
 
   <details>
   <summary>Limits</summary>
-  - 500 MB/day
-  - 1 user
-
+  <ul>
+    <li>500 MB/day</li>
+    <li>1 user</li>
+  </ul>
   </details>
 
 
@@ -275,8 +293,9 @@ Community Editions of Security Orchestration, Automation and Response (SOAR) too
 
   <details>
   <summary>Limits</summary>
-  - 100 actions per day
-
+  <ul>
+    <li>100 actions per day</li>
+  </ul>
   </details>
 
 
@@ -286,28 +305,30 @@ Community Editions of Security Orchestration, Automation and Response (SOAR) too
 
   <details>
   <summary>Limits</summary>
-  - 166 daily automation commands
-  - Rolling 30-day incident history
-  - 5 active feeds with 100 indicators per feed
-  - Native threat intelligence not included
-  - Incident closure report
-  - Slack DFIR community
-  - Single tenant
-
+  <ul>
+    <li>166 daily automation commands</li>
+    <li>Rolling 30-day incident history</li>
+    <li>5 active feeds with 100 indicators per feed</li>
+    <li>Native threat intelligence not included</li>
+    <li>Incident closure report</li>
+    <li>Slack DFIR community</li>
+    <li>Single tenant</li>
+  </ul>
   </details>
 
 
 ## Secret Management
 Enterprise Secret Management tools.
 
-- **[Bitwarden Free](https://bitwarden.com/)** - Individual password managment.
+- **[Bitwarden Free](https://bitwarden.com/)** - Individual password management.
 
   <details>
   <summary>Limits</summary>
-  - Unlimited passwords
-  - Unlimited devices
-  - Share vault items with one other user
-
+  <ul>
+    <li>Unlimited passwords</li>
+    <li>Unlimited devices</li>
+    <li>Share vault items with one other user</li>
+  </ul>
   </details>
 
 
@@ -315,11 +336,12 @@ Enterprise Secret Management tools.
 
   <details>
   <summary>Limits</summary>
-  - Key Management with REST APIs
-  - Data protection REST APIs
-  - Data Protection Gateway (DPG)
-  - Transparent Encryption for Kubernetes Environments (CTE-K8s)
-
+  <ul>
+    <li>Key Management with REST APIs</li>
+    <li>Data protection REST APIs</li>
+    <li>Data Protection Gateway (DPG)</li>
+    <li>Transparent Encryption for Kubernetes Environments (CTE-K8s)</li>
+  </ul>
   </details>
 
 
@@ -327,13 +349,14 @@ Enterprise Secret Management tools.
 
   <details>
   <summary>Limits</summary>
-  - 25 secrets
-  - 25 applications
-  - 5 versions per secrets
-  - 5 Secret Sync integrations
-  - 10,000 API operations
-  - Community support
-
+  <ul>
+    <li>25 secrets</li>
+    <li>25 applications</li>
+    <li>5 versions per secrets</li>
+    <li>5 Secret Sync integrations</li>
+    <li>10,000 API operations</li>
+    <li>Community support</li>
+  </ul>
   </details>
 
 
@@ -344,10 +367,11 @@ Enterprise Security Training platforms
 
   <details>
   <summary>Limits</summary>
-  - Dozens of Labs
-  - Select topics
-  - No leaderboards, SSO, assignments or compliance reporting
-
+  <ul>
+    <li>Dozens of Labs</li>
+    <li>Select topics</li>
+    <li>No leaderboards, SSO, assignments or compliance reporting</li>
+  </ul>
   </details>
 
 
@@ -358,8 +382,9 @@ Threat feeds are generally out of scope for this list but a few CE versions of c
 
   <details>
   <summary>Limits</summary>
-  - Unlimited feeds
-
+  <ul>
+    <li>Unlimited feeds</li>
+  </ul>
   </details>
 
 
@@ -370,12 +395,13 @@ Enterprise Threat Hunting tools.
 
   <details>
   <summary>Limits</summary>
-  - All threat hunting modules included
-  - 1 sensor
-  - 10 Datasets
-  - 50 Safelist entries
-  - Community support via Discord
-
+  <ul>
+    <li>All threat hunting modules included</li>
+    <li>1 sensor</li>
+    <li>10 Datasets</li>
+    <li>50 Safelist entries</li>
+    <li>Community support via Discord</li>
+  </ul>
   </details>
 
 
@@ -386,10 +412,11 @@ Enterprise Threat Modeling tools.
 
   <details>
   <summary>Socials</summary>
-  - [Twitter](https://twitter.com/threatmodeler)
-  - [LinkedIn](https://www.linkedin.com/company/threatmodelersoftware/)
-  - [YouTube](https://www.youtube.com/user/ThreatModeler)
-
+  <ul>
+    <li>Twitter: https://twitter.com/threatmodeler</li>
+    <li>LinkedIn: https://www.linkedin.com/company/threatmodelersoftware/</li>
+    <li>YouTube: https://www.youtube.com/user/ThreatModeler</li>
+  </ul>
   </details>
 
 
@@ -397,11 +424,12 @@ Enterprise Threat Modeling tools.
 
   <details>
   <summary>Limits</summary>
-  - Advanced adversary behavior search
-  - Tidal’s product registry
-  - Knowledge base labels
-  - Custom technique sets and labels
-
+  <ul>
+    <li>Advanced adversary behavior search</li>
+    <li>Tidal’s product registry</li>
+    <li>Knowledge base labels</li>
+    <li>Custom technique sets and labels</li>
+  </ul>
   </details>
 
 
@@ -412,10 +440,11 @@ Enterprise Vulnerability Management tools.
 
   <details>
   <summary>Limits</summary>
-  - One virtual scanner appliance
-  - Unlimited vulnerability scanning for up to 16 internal assets and 3 external assets
-  - Unlimited vulnerability scanning for one application URL
-
+  <ul>
+    <li>One virtual scanner appliance</li>
+    <li>Unlimited vulnerability scanning for up to 16 internal assets and 3 external assets</li>
+    <li>Unlimited vulnerability scanning for one application URL</li>
+  </ul>
   </details>
 
 
@@ -426,13 +455,16 @@ Free XDR solutions.
 
   <details>
   <summary>Limits</summary>
-  - Free and open source.
-  - Vendor support is paid.
-
+  <ul>
+    <li>Free and open source.</li>
+    <li>Vendor support is paid.</li>
+  </ul>
   </details>
   <details>
   <summary>Resources</summary>
-  - GitHub: https://github.com/wazuh
+  <ul>
+    <li>GitHub: https://github.com/wazuh</li>
+  </ul>
   </details>
 
 
