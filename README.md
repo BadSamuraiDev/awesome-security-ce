@@ -2,8 +2,9 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
-This list requires tools that offer long-term Community Editions (CE) derived from their enterprise counterparts. The primary objective is to identify software that provides sustained value without the constraints of short-term trials, enabling users to integrate and familiarize themselves with the tool over a more extended period. While open-source nature is preferred, it is not a mandatory criterion for this list. The goal is to curate a list of enterprise-grade tools that recognize and cater to the broader community through free, long-term versions without compromising the core functionality that makes them standout in their respective domains.
+Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to this list.
 
+### Requirements
 - :heavy_check_mark: :mortar_board: Functionally useful to a hobbist, researcher or student.
 - :heavy_check_mark: :low_brightness: Feature limitations allowed if it remains functionally usable.
 - :heavy_check_mark: :hourglass_flowing_sand: No time-based limitations. Such as 14 day trial.
