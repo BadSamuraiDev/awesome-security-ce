@@ -31,7 +31,6 @@ Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to 
 - [Threat Modeling](#threat-modeling)
 - [Vulnerability Management](#vulnerability-management)
 - [XDR](#xdr)
-- [License](#license)
 
 ## Business Email Compromise
 
