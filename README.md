@@ -16,22 +16,26 @@ Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to 
 
 ## Table of Contents
 
-- [Business Email Compromise](#business-email-compromise)
-- [Case Management](#case-management)
-- [DevSecOps](#devsecops)
-- [Documentation](#documentation)
-- [Firewall](#firewall)
-- [Notification](#notification)
-- [Pentesting](#pentesting)
-- [SIEM](#siem)
-- [SOAR](#soar)
-- [Secret Management](#secret-management)
-- [Security Training](#security-training)
-- [Threat Feeds](#threat-feeds)
-- [Threat Hunting](#threat-hunting)
-- [Threat Modeling](#threat-modeling)
-- [Vulnerability Management](#vulnerability-management)
-- [XDR](#xdr)
+- [](#)
+    - [Requirements](#requirements)
+  - [Table of Contents](#table-of-contents)
+  - [Business Email Compromise](#business-email-compromise)
+  - [Case Management](#case-management)
+  - [DevSecOps](#devsecops)
+  - [Documentation](#documentation)
+  - [Firewall](#firewall)
+  - [Notification](#notification)
+  - [Pentesting](#pentesting)
+  - [SIEM](#siem)
+  - [SOAR](#soar)
+  - [Secret Management](#secret-management)
+  - [Security Training](#security-training)
+  - [Threat Feeds](#threat-feeds)
+  - [Threat Hunting](#threat-hunting)
+  - [Threat Modeling](#threat-modeling)
+  - [Vulnerability Management](#vulnerability-management)
+  - [XDR](#xdr)
+  - [License](#license)
 
 
 ## Business Email Compromise
@@ -62,6 +66,21 @@ CE of Enterprise Case Management tools for SOCs and IR.
     <li>Storage limit: The free plan has a 2GB storage limit.</li>
     <li>Email notifications: The free plan can send a maximum of 100 emails per day.</li>
     <li>Audit logs: The free plan does not have access to audit logs.</li>
+    <li>Support: The free plan only offers community support.</li>
+  </ul>
+  </details>
+
+
+- **[TheHive](https://www.strangebee.com/thehive/)** - Popular Security Incident Response and Case Management Platform.
+
+  <details>
+  <summary>Limits</summary>
+  <ul>
+    <li>User limit: The free plan is limited to 2 users.</li>
+    <li>Tenant limit: The free plan is limited to 1 tenant.</li>
+    <li>Deployment: The free plan is limited to 1 node (no clustering).</li>
+    <li>Cortex: The free plan is limited to 1 Cortex instance integration.</li>
+    <li>MISP: The free plan is limited to 1 MISP instance integration.</li>
     <li>Support: The free plan only offers community support.</li>
   </ul>
   </details>
