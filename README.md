@@ -1,10 +1,11 @@
 # [![Awesome Community Editions of Enterprise Security Products](/logos/awesome-security-ce.png)](https://github.com/BadSamuraiDev/awesome-security-ce)
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to this list.
 
 ### Requirements
+
 - :heavy_check_mark: :mortar_board: Functionally useful to a hobbyist, researcher or student.
 - :heavy_check_mark: :low_brightness: Feature limitations allowed if it remains functionally usable.
 - :heavy_check_mark: :hourglass_flowing_sand: No time-based limitations. Such as 14 day trial.
@@ -12,33 +13,28 @@ Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to 
 - :heavy_check_mark: :shipit: Commercial use limitations are allowed.
 - :heavy_check_mark: :globe_with_meridians: Products can be Cloud or On-Prem.
 
-
-
 ## Table of Contents
 
-- [](#)
-    - [Requirements](#requirements)
-  - [Table of Contents](#table-of-contents)
-  - [Business Email Compromise](#business-email-compromise)
-  - [Case Management](#case-management)
-  - [DevSecOps](#devsecops)
-  - [Documentation](#documentation)
-  - [Firewall](#firewall)
-  - [Notification](#notification)
-  - [Pentesting](#pentesting)
-  - [SIEM](#siem)
-  - [SOAR](#soar)
-  - [Secret Management](#secret-management)
-  - [Security Training](#security-training)
-  - [Threat Feeds](#threat-feeds)
-  - [Threat Hunting](#threat-hunting)
-  - [Threat Modeling](#threat-modeling)
-  - [Vulnerability Management](#vulnerability-management)
-  - [XDR](#xdr)
-  - [License](#license)
-
+- [Business Email Compromise](#business-email-compromise)
+- [Case Management](#case-management)
+- [DevSecOps](#devsecops)
+- [Documentation](#documentation)
+- [Firewall](#firewall)
+- [Notification](#notification)
+- [Pentesting](#pentesting)
+- [SIEM](#siem)
+- [SOAR](#soar)
+- [Secret Management](#secret-management)
+- [Security Training](#security-training)
+- [Threat Feeds](#threat-feeds)
+- [Threat Hunting](#threat-hunting)
+- [Threat Modeling](#threat-modeling)
+- [Vulnerability Management](#vulnerability-management)
+- [XDR](#xdr)
+- [License](#license)
 
 ## Business Email Compromise
+
 Enterprise Business Email Compromise (BEC) tools.
 
 - **[Easy DMARC](https://easydmarc.com/)** - Reporting for DMARC, SPF, DKIM, BIMI, MTA-STS and TLS-RPT BIMI.
@@ -53,8 +49,8 @@ Enterprise Business Email Compromise (BEC) tools.
   </ul>
   </details>
 
-
 ## Case Management
+
 CE of Enterprise Case Management tools for SOCs and IR.
 
 - **[Atlassian Jira](https://www.atlassian.com/software/jira)** - Popular issue tracking and project management tool.
@@ -70,7 +66,6 @@ CE of Enterprise Case Management tools for SOCs and IR.
   </ul>
   </details>
 
-
 - **[TheHive](https://www.strangebee.com/thehive/)** - Popular Security Incident Response and Case Management Platform.
 
   <details>
@@ -85,8 +80,8 @@ CE of Enterprise Case Management tools for SOCs and IR.
   </ul>
   </details>
 
-
 ## DevSecOps
+
 Community Editions of DevOps and DevSecOps tools.
 
 - **[GitLab Cloud](http://gitlab.com/)** - Web platform for Git versioning and code collaboration.
@@ -101,7 +96,6 @@ Community Editions of DevOps and DevSecOps tools.
   </ul>
   </details>
 
-
 - **[Oak9](https://oak9.io/)** - Automated security for cloud native applications.
 
   <details>
@@ -115,7 +109,6 @@ Community Editions of DevOps and DevSecOps tools.
   </ul>
   </details>
 
-
 - **[Snyk](https://www.snyk.io/)** - Dev-first security tool for open source vulnerabilities.
 
   <details>
@@ -128,7 +121,6 @@ Community Editions of DevOps and DevSecOps tools.
   </ul>
   </details>
 
-
 - **[SonarQube](https://www.sonarsource.com/products/sonarqube/)** - Code quality and security analysis tool.
 
   <details>
@@ -138,8 +130,8 @@ Community Editions of DevOps and DevSecOps tools.
   </ul>
   </details>
 
-
 ## Documentation
+
 CE of Enterprise Documentation tools.
 
 - **[Atlassian Confluence Free](https://www.atlassian.com/software/confluence/)** - Popular documentation and collaboration tool.
@@ -156,9 +148,9 @@ CE of Enterprise Documentation tools.
   </ul>
   </details>
 
-
 ## Firewall
-Free 
+
+Free
 
 - **[Burp Suite CE](https://portswigger.net/burp/communitydownload)** - Popular web application security testing tool.
 
@@ -175,8 +167,8 @@ Free
   </ul>
   </details>
 
-
 ## Notification
+
 Notification tools for SOCs and IR teams.
 
 - **[PagerDuty](https://www.pagerduty.com/)** - Popular incident response and alerting tool.
@@ -188,7 +180,6 @@ Notification tools for SOCs and IR teams.
     <li>Escalation Schema: 1</li>
   </ul>
   </details>
-
 
 - **[Slack](https://www.slack.com/)** - Popular messaging and collaboration tool with automation.
 
@@ -202,11 +193,11 @@ Notification tools for SOCs and IR teams.
   </ul>
   </details>
 
-
 ## Pentesting
+
 Popular Enterprise Pentesting tools.
 
-- **[AzureHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481394564251-AzureHound-Community-Edition)** - Go binary that collects data from Entra ID (formerly known as AzureAD) and AzureRM via the Microsoft Graph and Azure REST APIs. 
+- **[AzureHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481394564251-AzureHound-Community-Edition)** - Go binary that collects data from Entra ID (formerly known as AzureAD) and AzureRM via the Microsoft Graph and Azure REST APIs.
 
 - **[BloodHound CE](https://www.hackerone.com/company/open-source-community)** - The most popular bug bounty platform.
 
@@ -216,7 +207,6 @@ Popular Enterprise Pentesting tools.
     <li>[BloodHound CE vs EE](https://bloodhoundenterprise.io/blog/2021/05/11/bloodhound-enterprise-vs-bloodhound-open-source/)</li>
   </ul>
   </details>
-
 
 - **[Burp Suite CE](https://portswigger.net/burp/communitydownload)** - Popular web application security testing tool.
 
@@ -228,7 +218,6 @@ Popular Enterprise Pentesting tools.
   </ul>
   </details>
 
-
 - **[HackerOne CE](https://www.hackerone.com/company/open-source-community)** - The most popular bug bounty platform.
 
   <details>
@@ -238,10 +227,10 @@ Popular Enterprise Pentesting tools.
   </ul>
   </details>
 
-
 - **[SharpHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481151861019-SharpHound-Community-Edition)** - Official data collector for BloodHound CE. It is written in C# and uses native Windows API functions and LDAP namespace functions to collect data from domain controllers and domain-joined Windows systems.
 
 ## SIEM
+
 Community Editions of Security Information and Event Management (SIEM) tools.
 
 - **[Cribl](https://www.cribl.io/)** - Log management and data pipeline tool.
@@ -256,7 +245,6 @@ Community Editions of Security Information and Event Management (SIEM) tools.
   </ul>
   </details>
 
-
 - **[Elasticsearch](https://www.elastic.co/)** - Distributed, RESTful search and analytics engine.
 
   <details>
@@ -268,7 +256,6 @@ Community Editions of Security Information and Event Management (SIEM) tools.
   </ul>
   </details>
 
-
 - **[QRadar CE](https://www.ibm.com/community/qradar/ce/)** - Community Edition is a fully-featured free version of IBM QRadar.
 
   <details>
@@ -278,7 +265,6 @@ Community Editions of Security Information and Event Management (SIEM) tools.
     <li>5000 network flows per minute</li>
   </ul>
   </details>
-
 
 - **[Search Guard for Elasticsearch CE](https://docs.search-guard.com/latest/search-guard-community-edition)** - Monitor access to data stored in Elasticsearch, including Kibana, Logstash and Beats
 
@@ -293,7 +279,6 @@ Community Editions of Security Information and Event Management (SIEM) tools.
   </ul>
   </details>
 
-
 - **[Splunk](https://www.splunk.com/en_us/software/splunk-enterprise.html)** - One of the most popular data analysis platforms used for SIEM.
 
   <details>
@@ -304,9 +289,9 @@ Community Editions of Security Information and Event Management (SIEM) tools.
   </ul>
   </details>
 
-
 ## SOAR
-Community Editions of Security Orchestration, Automation and Response (SOAR) tools. 
+
+Community Editions of Security Orchestration, Automation and Response (SOAR) tools.
 
 - **[Splunk SOAR](https://www.splunk.com/soar/)** - Splunk's SOAR solution, formerly Phantom.
 
@@ -316,7 +301,6 @@ Community Editions of Security Orchestration, Automation and Response (SOAR) too
     <li>100 actions per day</li>
   </ul>
   </details>
-
 
 - **[Tines](https://www.tines.com/)** - Tines security automation platform.
 
@@ -335,8 +319,8 @@ Community Editions of Security Orchestration, Automation and Response (SOAR) too
   </ul>
   </details>
 
-
 ## Secret Management
+
 Enterprise Secret Management tools.
 
 - **[Bitwarden Free](https://bitwarden.com/)** - Individual password management.
@@ -350,7 +334,6 @@ Enterprise Secret Management tools.
   </ul>
   </details>
 
-
 - **[CipherTrust CE](https://cpl.thalesgroup.com/encryption/ciphertrust-platform-community-edition)** - Key management and transparent encryption and tokenization.
 
   <details>
@@ -362,7 +345,6 @@ Enterprise Secret Management tools.
     <li>Transparent Encryption for Kubernetes Environments (CTE-K8s)</li>
   </ul>
   </details>
-
 
 - **[Hashi Corp Vault Secrets](https://www.hashicorp.com/products/vault/)** - SaaS based, centralized secrets lifecycle management for developers.
 
@@ -378,8 +360,8 @@ Enterprise Secret Management tools.
   </ul>
   </details>
 
-
 ## Security Training
+
 Enterprise Security Training platforms
 
 - **[Veracode Security Labs Community Edition](https://www.veracode.com/products/security-labs-community-edition/)** - Lightweight, always free, preview of Enterprise Edition for developers.
@@ -393,8 +375,8 @@ Enterprise Security Training platforms
   </ul>
   </details>
 
-
 ## Threat Feeds
+
 Threat feeds are generally out of scope for this list but a few CE versions of common Enterprise Threat Feeds have been included.
 
 - **[Anomali STAXX](https://www.anomali.com/resources/staxx)** - Free STIX / TAXXII feed client.
@@ -406,11 +388,11 @@ Threat feeds are generally out of scope for this list but a few CE versions of c
   </ul>
   </details>
 
-
 ## Threat Hunting
+
 Enterprise Threat Hunting tools.
 
-- **[Active Countermeasures](https://www.activecountermeasures.com/ac-hunter-community-edition/)** - AC-Hunter has a majority of the functionality (with some limitations) 
+- **[Active Countermeasures](https://www.activecountermeasures.com/ac-hunter-community-edition/)** - AC-Hunter has a majority of the functionality (with some limitations)
 
   <details>
   <summary>Limits</summary>
@@ -423,8 +405,8 @@ Enterprise Threat Hunting tools.
   </ul>
   </details>
 
-
 ## Threat Modeling
+
 Enterprise Threat Modeling tools.
 
 - **[ThreatModeler](https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/)** - Attack surface visualization and threat modeling.
@@ -438,7 +420,6 @@ Enterprise Threat Modeling tools.
   </ul>
   </details>
 
-
 - **[Tidal Cyber](https://www.tidalcyber.com/communityedition/)** - Threat informed defense based on MITRE
 
   <details>
@@ -451,8 +432,8 @@ Enterprise Threat Modeling tools.
   </ul>
   </details>
 
-
 ## Vulnerability Management
+
 Enterprise Vulnerability Management tools.
 
 - **[Qualys Community Edition](https://www.qualys.com/community-edition/)** - Vulnerability management and threat prioritization.
@@ -466,8 +447,8 @@ Enterprise Vulnerability Management tools.
   </ul>
   </details>
 
-
 ## XDR
+
 Free XDR solutions.
 
 - **[Wazuh](https://www.veracode.com/products/security-labs-community-edition/)** - Lightweight, always free, preview of Enterprise Edition for developers.
@@ -486,8 +467,8 @@ Free XDR solutions.
   </ul>
   </details>
 
-
 ## License
+
 This list and associated code are under the MIT License. See [LICENSE](LICENSE) for details.
 
 The assets in `/logos` are trademarks of their respective companies and are under their terms of use.
