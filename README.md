@@ -404,6 +404,19 @@ Enterprise Threat Hunting tools.
   </ul>
   </details>
 
+- **[Uncoder](https://uncoder.io)** - Detection engineering and threat hunting IDE
+
+  <details>
+  <summary>Limits</summary>
+  <ul>
+    <li>Up to 2 premium Sigma rules per month</li>
+    <li>Data field mapping customization</li>
+    <li>72-hour wait time on content code access</li>
+    <li>Unlimited Filters</li>
+    <li>1 Data Plane</li>
+  </ul>
+  </details>
+
 ## Threat Modeling
 
 Enterprise Threat Modeling tools.
