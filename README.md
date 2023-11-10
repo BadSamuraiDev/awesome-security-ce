@@ -459,6 +459,17 @@ Enterprise Vulnerability Management tools.
   </ul>
   </details>
 
+- **[ThreatMapper](https://www.deepfence.io/threatmapper)** - Open source scanner for cloud vulnerabilities, malware, compliance misconfigurations.
+
+  <details>
+  <summary>Limits</summary>
+  <ul>
+    <li>As-is support</li>
+    <li>May not sell, distribute, rent, lease or lend the software</li>
+    <li>May not use the software for commercial software hosting services</li>
+  </ul>
+  </details>
+
 ## XDR
 
 Free XDR solutions.
