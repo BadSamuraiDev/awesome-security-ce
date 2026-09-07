@@ -199,6 +199,7 @@ Popular Enterprise Pentesting tools.
 - **[AzureHound CE](https://support.bloodhoundenterprise.io/hc/en-us/articles/17481394564251-AzureHound-Community-Edition)** - Go binary that collects data from Entra ID (formerly known as AzureAD) and AzureRM via the Microsoft Graph and Azure REST APIs.
 
 - **[BloodHound CE](https://www.hackerone.com/company/open-source-community)** - The most popular bug bounty platform.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source autonomous penetration testing platform, 50 specialist agents over MCP, reproducible proof of exploitation, self hosted.
 
   <details>
   <summary>Limits</summary>
